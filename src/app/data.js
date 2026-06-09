@@ -87,6 +87,13 @@ export const projectsData = [
     date: "2022-02-14",
     demoLink: "https://portfolio-beige-eight-32.vercel.app/",
   },
+  {
+    id: 11,
+    name: "Zentry Clone",
+    description: "A high-end gaming website",
+    date: "2026-06-08",
+    demoLink: "https://zentry-clone-beta-five.vercel.app/",
+  },
 ];
 
 export const BtnList = [
