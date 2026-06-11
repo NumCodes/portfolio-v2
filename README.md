@@ -1,5 +1,5 @@
 
-## Num Code
+## Num Codes
 
 Hey there! I built this project to stand out a bit from your typical online portfolio. It's a dynamic and visually rich website, crafted to be an engaging platform for presenting my professional work and skills. Think of it as a digital wizard's workshop where visitors can explore my creations in an intuitive and magical environment. The goal was to build something memorable, highly interactive, and a genuine reflection of my approach to web development.
 
@@ -10,10 +10,9 @@ Getting this project up and running on your local machine is pretty straightforw
 1.  **Clone the Repository**:
     Start by cloning the project to your local directory:
     ```bash
-    git clone https://github.com/numcodes/Next.js-Creative-Portfolio-Website.git
-    cd Next.js-Creative-Portfolio-Website
+    git clone https://github.com/numcodes/portfolio-v3.git
+    cd portfolio-v3
     ```
-    (Note: Replace `https://github.com/numcodes/Next.js-Creative-Portfolio-Website.git` with the actual repository URL if it differs.)
 
 2.  **Install Dependencies**:
     Once you're in the project directory, install all the necessary packages using npm:
