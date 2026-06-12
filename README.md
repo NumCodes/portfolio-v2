@@ -10,8 +10,8 @@ Getting this project up and running on your local machine is pretty straightforw
 1.  **Clone the Repository**:
     Start by cloning the project to your local directory:
     ```bash
-    git clone https://github.com/numcodes/portfolio-v3.git
-    cd portfolio-v3
+    git clone https://github.com/numcodes/portfolio-v2.git
+    cd portfolio-v2
     ```
 
 2.  **Install Dependencies**:
